@@ -9,7 +9,7 @@ In this part of the project, I implement the server side of the application usin
 
 - body-parser
 - nodemon
-- "cors"
+- cors
 
 
 
